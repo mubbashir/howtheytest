@@ -670,6 +670,17 @@ Testing / quality of software goes beyond traditional activities of pre-release 
 </details>
 
 <details>
+  <summary>Mattermost</summary>
+
+#### Blogs & Articles
+* [Improving performance (and more) through load testing](https://developers.mattermost.com/blog/improving-performance-through-load-testing/)
+* [Automated UI Testing With Cypress](https://developers.mattermost.com/blog/automated-ui-testing-with-cypress/)
+* [Unit Testing mmctl Commands](https://developers.mattermost.com/blog/unit-testing-mmctl-commands/)
+* [Avoiding Flaky Tests](https://developers.mattermost.com/blog/avoiding-flaky-tests/)
+
+</details>
+
+<details>
   <summary>Mailchimp</summary>
 
 #### Blogs & Articles
@@ -825,6 +836,26 @@ Testing / quality of software goes beyond traditional activities of pre-release 
 </details>
 
 <details>
+  <summary>Slalom Build</summary>
+
+#### Blogs & Articles
+* [Quality Engineer Learning Roadmap](https://medium.com/slalom-build/quality-engineer-learning-roadmap-fddfcb77409e)
+* [Quality Engineering: Adapt and Apply](https://medium.com/slalom-build/quality-engineering-adapt-and-apply-a77edb781289)
+* [The challenge of testing Data Pipelines](https://medium.com/slalom-build/the-challenge-of-testing-data-pipelines-4450744a84f1)
+* [Quality Engineering Core Principles](https://medium.com/slalom-build/quality-engineering-core-principles-13cbc34bf389)
+* [What is the ROI of my test automation?](https://medium.com/slalom-build/what-is-the-roi-of-my-test-automation-10ae7bf0d9ed)
+* [The Regression Death Spiral](https://medium.com/slalom-build/the-regression-death-spiral-18f88b9fb030)
+* [Testing Angular Applications with Selenium Java](https://medium.com/slalom-build/testing-angular-applications-with-selenium-java-4bca1c6d08b5)
+* [Why isn’t all test automation run on the pipeline?](https://medium.com/slalom-build/why-isnt-all-test-automation-run-on-the-pipeline-b2c57afbdf5a)
+* [How to test Internationalization with UI automation](https://medium.com/slalom-build/how-to-test-internationalization-with-ui-automation-ff829bb718cc)
+* [Redefining “Using Promises with the Page Object Model”](https://medium.com/slalom-build/redefining-using-promises-with-the-page-object-model-6dfd49a3594b)
+* [Load Testing in a Nutshell](https://medium.com/slalom-build/load-testing-in-a-nutshell-7f7568811217)
+* [Mobile Testing with Microsoft’s Xamarin Test Cloud](https://medium.com/slalom-build/mobile-app-testing-with-microsoft-test-cloud-services-part-1-c0b40b7c19d0)
+* [Using Promises with the Page Object Model](https://medium.com/slalom-build/using-promises-in-page-object-model-test-automation-2a505be9d79f)
+
+</details>
+
+<details>
   <summary>Salesforce</summary>
 
 #### Blogs & Articles
@@ -960,6 +991,17 @@ Testing / quality of software goes beyond traditional activities of pre-release 
 * [Game Day Exercises at Stripe - Learning from `kill -9`](https://stripe.com/blog/game-day-exercises-at-stripe)
 * [Fast and flexible observability with canonical log lines](https://stripe.com/blog/canonical-log-lines)
 * [Learning to operate Kubernetes reliably](https://stripe.com/blog/operating-kubernetes)
+</details>
+
+<details>
+  <summary>Stuart Engineering</summary>
+
+#### Blogs & Articles
+* [⬅️ Shifting left QA](https://medium.com/stuart-engineering/shifting-left-qa-341e9c8cdc38)
+* [What QA Engineers do at Stuart](https://medium.com/stuart-engineering/what-qa-engineers-do-at-stuart-665bbbe4b003)
+* [🌎 Webhook Testing At Stuart](https://medium.com/stuart-engineering/webhook-testing-at-stuart-3768e8c4b362)
+* [🔬 Under The QA Testing Microscope](https://medium.com/stuart-engineering/under-the-qa-testing-microscope-8a5191767eda)
+
 </details>
 
 <details>
